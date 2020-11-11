@@ -2,7 +2,7 @@
 This repositories consists of my projects when I take DTS Kominfo program.
 
 ## Tic-tac-toe
-This task was making a simple tic-tac-toe gameboard with player vs computer. The first move always taken by the computer and place in cell (1, 1). The board is 3x3 with cell name 0, 1, and 2 for either row and column. The computer move is generated with random number.
+The first task is to make a simple tic-tac-toe gameboard with player vs computer. The first move always taken by the computer and place in cell (1, 1). The board is 3x3 with cell name 0, 1, and 2 for either row and column. The computer move is generated with random number.
 
 ## Project 1
 This task related with basic python list, dictionary, and iteration problems.
